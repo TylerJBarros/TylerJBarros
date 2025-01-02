@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>MassCyberCenter AI Research Project</b>
-  - [Keylogger: AI Enchancement] (Insert Link)
+- <b>Research Project</b>
+  - [MassCyberCenter AI Enchancement Presentation] (Insert Link)
 
 <h2> 🤳 Connect with me:</h2>
 
