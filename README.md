@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyler! 
+<h1>Hi, I'm Tyler! <h2>
   <a href="linkedin.com/in/tyler-barros1">Cybersecurity Student</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
