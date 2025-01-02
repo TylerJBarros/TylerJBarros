@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tyler! <br/>
-  <a href="linkedin.com/in/tyler-barros1">Cybersecurity Student</a>, <a href="linkedin.com/in/tyler-barros1">Programmer</a>,
+  <a href="linkedin.com/in/tyler-barros1">Cybersecurity Student</a>, <a href="linkedin.com/in/tyler-barros1">Programmer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
