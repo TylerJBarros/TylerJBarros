@@ -5,6 +5,10 @@
 
 - <b>Research Project</b>
   - [MassCyberCenter AI Enchancement Presentation] (Insert Link)
+- <b>Tools and Automation</b>
+  - [Automated Vulnerability Report Optimizer] (Insert Link)
+- <b>Governance, Risk, and Compliance</b>
+  - [Security------------Audit] (Insert Link)
 
 <h2> 🤳 Connect with me:</h2>
 
