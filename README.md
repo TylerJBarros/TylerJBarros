@@ -9,12 +9,14 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="TylerJBarros | Handshake" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUk8r5f43GjmrmlM4sqQBu4yzAIcGjYFKThQ&s" />][Handshake]
 [<img align="left" alt="TylerJBarros | LinkedIn" width="22px" src="https://media.cmsmax.com/fjliwncknaoc0txjp1m4f/linkedin-logo.png" />][linkedin]
+[<img align="left" alt="TylerJBarros | Handshake" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUk8r5f43GjmrmlM4sqQBu4yzAIcGjYFKThQ&s" />][Handshake]
 
 
-[Handshake]: https://bridgew.joinhandshake.com/profiles/44866954
+
 [linkedin]: linkedin.com/in/tyler-barros1
+[Handshake]: https://bridgew.joinhandshake.com/profiles/44866954
+
 
 
 
