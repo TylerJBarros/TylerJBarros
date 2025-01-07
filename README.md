@@ -6,7 +6,7 @@
 - <b>Research Project</b>
   - [MassCyberCenter AI Enchancement Presentation](https://github.com/TylerJBarros/MassCyberCenter-AI-Enchancement/tree/main)
 - <b>Tools and Automation</b>
-  - [Automated Vulnerability Report Optimizer] (Insert Link)
+  - [Automated Vulnerability Report Optimizer](Insert Link)
 - <b>Governance, Risk, and Compliance</b>
   - [Security------------Audit] (Insert Link)
 
