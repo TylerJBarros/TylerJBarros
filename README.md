@@ -7,7 +7,7 @@
   - [MassCyberCenter AI Enchancement Presentation](https://github.com/TylerJBarros/MassCyberCenter-AI-Enchancement/tree/main)
 - <b>Tools and Automation</b>
 - <b>Governance, Risk, and Compliance</b>
-  - [Security------------Audit] (Insert Link)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
